@@ -1,0 +1,1 @@
+BraT Detector aims to build a proof-of-concept model that segments brain tumour on 2D FLAIR MRI slices from the BraTS 2020 dataset. it will output a binary mask (tumour vs background) and evaluate with Dice. This is a learning exercise (non-clinical), emphasizing clean data handling, leakage-free splits, and clear visualizations.
